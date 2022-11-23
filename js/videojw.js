@@ -570,13 +570,13 @@ var confcomun = {
             borderRadius: 10,
             tooltips: {
                 buttons: true,
-                play: 'Reproducir',
-                pause: 'Pausa',
-                menu: 'Calidades',
-                unmute: 'No Silenciar',
-                mute: 'Silenciar',
-                fullscreen: 'Pantalla Completa',
-                fullscreenExit: 'Salir de Pantalla Completa'
+                play: 'Play',
+                pause: 'Pause',
+                menu: 'Menu',
+                unmute: 'Unmute',
+                mute: 'Mute',
+                fullscreen: 'Fullscreen',
+                fullscreenExit: 'Exit Full Screen'
             }
         }
     }
@@ -649,12 +649,12 @@ var bwcheck = {
         rememberBitrate: true
     },
     onStreamSwitch: function(newItem) {
-        var content = $f().getPlugin('calidad');
+        var content = $f().getPlugin('quality');
         message = newItem.bitrate + "k";
         content.setHtml(message);
     }
 };
-var calidad = {
+var quality = {
     url: strm + '/swf/flowplayer.content-3.2.8.swf',
     bottom: '7px',
     right: '7px',
@@ -694,14 +694,14 @@ if (document.documentURI === undefined) {
         httpstreaming = flashhls;
         httpstreaminglive = flashhls;
         bwcheck = "";
-        calidad = "";
+        quality = "";
     }
 } else {
     if ((document.documentURI.indexOf("comercial") != -1)) {
         httpstreaming = flashhls;
         httpstreaminglive = flashhls;
         bwcheck = "";
-        calidad = "";
+        quality = "";
     }
 }
 
@@ -1892,7 +1892,7 @@ function playMS(DivId, p) {
     conf.plugins.httpstreaming = flashhls;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova;
     conf.plugins.openAdStreamer.autoPlay = true;
@@ -2181,7 +2181,7 @@ function playMS_np(DivId, p) {
     conf.plugins.httpstreaming = flashhls;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova_np;
 
@@ -2442,7 +2442,7 @@ function playMS_bs(DivId, p) {
     conf.plugins.httpstreaming = flashhls;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova_bs;
     conf.plugins.openAdStreamer.autoPlay = true;
@@ -2716,7 +2716,7 @@ function playMS_sp(DivId, p) {
     conf.plugins.httpstreaming = flashhls;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova;
     conf.plugins.openAdStreamer.autoPlay = true;
@@ -2982,7 +2982,7 @@ function playHLS(DivId, p) {
     conf.plugins.httpstreaming = httpstreaming;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova;
     conf.plugins.openAdStreamer.autoPlay = true;
@@ -3042,7 +3042,7 @@ function playHLS_np(DivId, p) {
     conf.plugins.httpstreaming = httpstreaming;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova_np;
 
@@ -3101,7 +3101,7 @@ function playHLS_bs(DivId, p) {
     conf.plugins.httpstreaming = httpstreaming;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova_bs;
     conf.plugins.openAdStreamer.autoPlay = true;
@@ -3163,7 +3163,7 @@ function playHLS_sp(DivId, p) {
     conf.plugins.httpstreaming = httpstreaming;
     conf.plugins.thumbs = thumbs;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
 
     if (typeof ga == 'function') {
@@ -4323,7 +4323,7 @@ function playHLSlive_sp(DivId, p) {
     conf.plugins.controls.width = '160';
     conf.plugins.httpstreaming = httpstreaminglive;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
 
     if (typeof ga == 'function') {
@@ -4379,7 +4379,7 @@ function playHLSlive(DivId, p) {
     conf.plugins.controls.width = '160';
     conf.plugins.httpstreaming = httpstreaminglive;
     conf.plugins.bwcheck = bwcheck;
-    conf.plugins.calidad = calidad;
+    conf.plugins.quality = quality;
     conf.plugins.analytics = analytics;
     conf.plugins.openAdStreamer = ova_bs;
     conf.plugins.openAdStreamer.autoPlay = true;
