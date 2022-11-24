@@ -5,6 +5,16 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/world_cup.html'
     },
 	{
+        'titulo': 'Discovery Kids-Hindi',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/discovery_kids_hindi.html'
+    },
+	{
+        'titulo': 'Animal Planet-Hindi',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://www.nicepng.com/png/detail/635-6357831_animal-planet-animal-planet-logo-png.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/animal_planet_hindi.html'
+    },
+	{
         'titulo': 'Rakuten Action',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/2560px-Rakuten_Global_Brand_Logo.svg.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/rakuten_action.html'
