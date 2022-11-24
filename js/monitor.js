@@ -11,7 +11,7 @@ let LosCanales = [
     },
 	{
         'titulo': 'AVA-Entertainment',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.imgur.com/me5igxY.jpg"></img>',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://4.bp.blogspot.com/-6h_bPull4J8/UnCzQBj8exI/AAAAAAAAcbQ/kqulK6UKmss/s1600/Ava+logo+2013.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/ava.html'
     },
 	{
