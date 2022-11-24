@@ -5,9 +5,14 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/world_cup.html'
     },
 	{
-        'titulo': 'Discovery Kids-Hindi',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png"></img>',
-        'url': 'https://bugsfreecdn.netlify.app/channels/discovery_kids_hindi.html'
+        'titulo': 'Al Jazeera',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/al_jazeera.html'
+    },
+	{
+        'titulo': 'AVA-Entertainment',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.imgur.com/me5igxY.jpg"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/ava.html'
     },
 	{
         'titulo': 'Animal Planet-Hindi',
