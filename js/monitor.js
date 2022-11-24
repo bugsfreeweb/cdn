@@ -5,7 +5,7 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/rakuten_action.html'
     }, {
         'titulo': '9XM',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://static.wikia.nocookie.net/logopedia/images/1/1b/9XM_logo.png/revision/latest?cb=20100429063332"></img>',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://th.bing.com/th/id/OIP.fa5nGgMLXUHZxIg0BHKEBQHaDv?pid=ImgDet&rs=1"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/9xm.html'
     }, {
         'titulo': 'Fifa WorldCup',
