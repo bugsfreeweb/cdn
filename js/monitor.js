@@ -1,5 +1,10 @@
 let LosCanales = [
     {
+        'titulo': 'World Cup-2022',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/world_cup.html'
+    },
+	{
         'titulo': 'Rakuten Action',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Rakuten_Global_Brand_Logo.svg/2560px-Rakuten_Global_Brand_Logo.svg.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/rakuten_action.html'
