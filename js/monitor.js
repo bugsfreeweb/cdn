@@ -5,10 +5,21 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/world_cup.html'
     },
 	{
+        'titulo': 'Zee news',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.ytimg.com/vi/ve4byF_aXCM/hqdefault.jpg"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/zee_news.html'
+    },
+	{
+        'titulo': 'NDTV',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i0.wp.com/techstory.in/wp-content/uploads/2015/12/2000px-NDTV_logo.svg_.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/ndtv.html'
+    },
+	{
         'titulo': 'Al Jazeera',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/en/9/90/Al_Jazeera_Mubasher_logo.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/al_jazeera.html'
     },
+	
 	{
         'titulo': 'AVA-Entertainment',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://4.bp.blogspot.com/-6h_bPull4J8/UnCzQBj8exI/AAAAAAAAcbQ/kqulK6UKmss/s1600/Ava+logo+2013.png"></img>',
