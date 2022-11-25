@@ -1,4 +1,4 @@
-let ChannelLists = [
+let LosCanales = [
     {
         'title': 'Bangla TV',
         'name': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png"></img>',
