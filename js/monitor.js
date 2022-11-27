@@ -30,6 +30,11 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/world_cup5.html'
     },
 	{
+        'titulo': 'World Cup-2022',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/world_cup6.html'
+    },
+	{
         'titulo': 'Zee news',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.ytimg.com/vi/ve4byF_aXCM/hqdefault.jpg"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/zee_news.html'
