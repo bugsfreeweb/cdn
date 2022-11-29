@@ -1,5 +1,10 @@
 let LosCanales = [
     {
+        'titulo': 'DW',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/dw.html'
+    },
+	{
         'titulo': 'World Cup-2022',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/world_cup.html'
