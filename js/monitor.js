@@ -1,12 +1,12 @@
 let LosCanales = [
     {
         'titulo': 'DW',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"></img>',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/dw.html'
     },
 	{
         'titulo': 'DW News',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png"></img>',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://mlmqyxhfvgrm.i.optimole.com/YC75iXI-qP-gx8bG/w:300/h:212/q:auto/https://livetvmania.net/wp-content/uploads/2018/03/dw-news.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/dw_news.html'
     },
 	{
