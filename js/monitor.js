@@ -20,9 +20,9 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/neo_news.html'
     },
 	{
-        'titulo': 'Duniya News',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://www.pngfind.com/pngs/m/440-4408212_neo-tv-logo-neo-news-logo-png-transparent.png"></img>',
-        'url': 'https://bugsfreecdn.netlify.app/channels/duniya_news.html'
+        'titulo': 'Lahor News',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/lahor_news.html'
     },
 	{
         'titulo': 'World Cup-2022',
