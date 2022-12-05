@@ -21,7 +21,7 @@ let LosCanales = [
     },
 	{
         'titulo': 'Lahor News',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://www.lyngsat.com/logo/tv/ll/lahore_news_pk.png"></img>',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://img.favpng.com/1/17/8/lahore-news-hd-dunya-news-television-channel-png-favpng-V3zcDDXDPm8fzQF18kfhDnNq6.jpg"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/lahor_news.html'
     },
 	{
