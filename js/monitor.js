@@ -10,6 +10,11 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/dw_news.html'
     },
 	{
+        'titulo': 'India Today',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://th.bing.com/th/id/OIP.wko-MnWVVXtd1P61SkBjkgHaHa?pid=ImgDet&rs=1"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/channels/india_today.html'
+    },
+	{
         'titulo': 'World Cup-2022',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.ibb.co/tKZqSw2/World-CUP-22.jpg"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/world_cup.html'
