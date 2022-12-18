@@ -10,6 +10,11 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/channels/dw_news.html'
     },
 	{
+        'titulo': 'Mu TV',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://en.wikipedia.org/wiki/File:MUTV_logo.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/playscreen/mutv.html'
+    },
+	{
         'titulo': 'India Today',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://th.bing.com/th/id/OIP.wko-MnWVVXtd1P61SkBjkgHaHa?pid=ImgDet&rs=1"></img>',
         'url': 'https://bugsfreecdn.netlify.app/channels/india_today.html'
