@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="google" value="notranslate" /> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Bugsfree Video Player</title>
+    <link href="https://fonts.googleapis.com/css?family=Quicksand|Actor|Source+Sans+Pro:900|Lato:400,700,900|Oswald:400,700|Abel:400|Dosis:600" rel="stylesheet">
+<link href="https://bugsfreecdn.netlify.app/css/buggy_player.css" rel="stylesheet" type="text/css" />
+
+<style>
+html, body {
+	background-color: #1a1a1a;
+}
+</style>
+</head>
+<body>
+
+<div id="tlsVideoContent">
+    <img width="100%" height="100%" style="position: absolute; top: 100%; left: 100%; margin: -16px 0 0 -16px"
+         src="https://bugsfreecdn.netlify.app/images/buggy_logo.png">
+</div>
+
+<script type="text/javascript">
+    (function (window) {
+        function setup(telase) {
+             telase.playerConfiguration.addMediaSrc("https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8");
+             telase.playerConfiguration.setAutoHideControls(true);
+             telase.playerConfiguration.setBackgroundColor("#000000");
+             telase.playerConfiguration.allowFastForward = true;
+             telase.playerConfiguration.skipVideoControlsEnabled = true;
+             telase.playerConfiguration.skipVideoDuration = 5;            
+             telase.playerConfiguration.setAutoPlayMedia(true);
+             telase.playerConfiguration.setPosterImageSrc("https://bugsfreecdn.netlify.app/images/buggy_logo.png");
+             telase.playerConfiguration.setEndActionType("loop");
+             telase.playerConfiguration.setEndActionParam("true");
+             telase.playerConfiguration.setAllowRewind(-1);
+             
+
+             telase.localizationStrings.setLanguage(telase.languageCodes.ENGLISH);
+             telase.mediaPlayer.init("#tlsVideoContent");
+        }
+        function loadScript(e,t){if(!e||!(typeof e==="string")){return}var n=document.createElement("script");if(typeof document.attachEvent==="object"){n.onreadystatechange=function(){if(n.readyState==="complete"||n.readyState==="loaded"){if(t){t()}}}}else{n.onload=function(){if(t){t()}}}n.src=e;document.getElementsByTagName("head")[0].appendChild(n)}
+
+        loadScript('https://bugsfreecdn.netlify.app/js/buggy_player.js', function() {
+            setup(window["telase"]);
+        });
+    }(window));
+</script>
+</body>
+</html>
