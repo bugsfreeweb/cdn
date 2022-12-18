@@ -15,6 +15,11 @@ let LosCanales = [
         'url': 'https://bugsfreecdn.netlify.app/playscreen/banglatv.html'
     },
 	{
+        'titulo': 'Mu TV',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://en.wikipedia.org/wiki/File:MUTV_logo.png"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/playscreen/mutv.html'
+    },
+	{
         'titulo': 'ATN Bangla',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/playscreen/atn_bangla.html'
