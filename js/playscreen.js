@@ -16,7 +16,7 @@ let LosCanales = [
     },
 	{
         'titulo': 'Mu TV',
-        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://en.wikipedia.org/wiki/File:MUTV_logo.png"></img>',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://i.pinimg.com/originals/ae/ff/5d/aeff5dcbc8d9fd21618947aa78193c2d.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/playscreen/mutv.html'
     },
 	{
