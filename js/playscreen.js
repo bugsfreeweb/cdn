@@ -1,5 +1,15 @@
 let LosCanales = [
     {
+        'titulo': 'Gazi TV',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://th.bing.com/th/id/OIP.jp3KGO_mQrz-LrjVoizzawHaEI?pid=ImgDet&rs=1"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/playscreen/gtv.html'
+    },
+	{
+        'titulo': 'T-sports TV',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://www.daily-sun.com/assets/news_images/2021/06/28/T_Sports_logo.jpg"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/playscreen/tsports.html'
+    },
+	{
         'titulo': 'Bangla TV',
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://banglatv.tv/wp-content/uploads/2018/10/bangla-tv-logo.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/playscreen/banglatv.html'
