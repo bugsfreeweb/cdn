@@ -2,7 +2,7 @@ const songs = [
     {
         name: 'Bugsfree Radio',
         path: 'https://remixzilla.com/siteuploads/files/sfd11/5089/Hindi%20Love%20All%20Time%20Hits%20Nonstop%20DJ%20Song%20Collection%202022(RemixZilla.Com).mp3',
-        artist: 'Bugsfre Default Radio',
+        artist: 'Bugsfree Default Radio',
         cover: 'https://bugsfreecdn.netlify.app/buggymp3/imgs/radio_main.png'
     },
     {
@@ -24,9 +24,9 @@ const songs = [
         cover: 'https://bugsfreecdn.netlify.app/buggymp3/imgs/radio_main_03.png'
     },
     {
-        name: 'Justin Bieber Anyone',
+        name: 'Justin Bieber',
         path: 'https://remixzilla.com/siteuploads/files/sfd9/4295/Justin%20Bieber%20-%20Anyone%20(Jack%20Shore%20Remix)%202021(RemixZilla.Com).mp3',
-        artist: 'Jack Shore Remix-2021',
+        artist: 'Anyone-Jack Shore Remix-2021',
         cover: 'https://bugsfreecdn.netlify.app/buggymp3/imgs/radio_main_04.png'
     }
 ]
