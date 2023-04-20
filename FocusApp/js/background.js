@@ -17,6 +17,6 @@ const images = ['0.png','1.png', '2.png', '3.png', '4.png' ,'5.png', '6.png'];
 // 3. do floor <round down> Math.floor(1.999999999) => 1
 
 
-document.body.style = `background-image: url("img/${Math.floor(
+document.body.style = `background-image: url("https://bugsfreecdn.netlify.app/FocusApp/img/${Math.floor(
     Math.random() * images.length)}.png");`;
   
