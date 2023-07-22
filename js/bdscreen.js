@@ -41,4 +41,9 @@ let LosCanales = [
         'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/1200px-Boishakhi_TV_logo.svg.png"></img>',
         'url': 'https://bugsfreecdn.netlify.app/playscreen/boishakhitv.html'
     },	
+	{
+        'titulo': 'Boogle Bollywood',
+        'nombre': '<span style="margin-right: 10px;" class="material-icons">tv</span><img style="height: 20px; width: auto; margin-right: 10px;" src="https://static.wikia.nocookie.net/logopedia/images/9/90/Boogle_Bollywood.jpeg/revision/latest?cb=20200106202611"></img>',
+        'url': 'https://bugsfreecdn.netlify.app/playscreen/booglebollywood.html'
+    },
 ]
