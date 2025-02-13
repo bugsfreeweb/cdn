@@ -28,20 +28,7 @@
     "type": "Worldwide",
     "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/DWjUT2R.jpeg"
-  }
-{
-    "name": "Mello TV",
-    "type": "Worldwide",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=47",
-    "img": "https://www.workandjam.com/foto/s1159.jpg" 
-  },
-  {
-    "name": "Funny",
-   "type": "Worldwide",
-    "url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png"
-    
-  },
+  },  
 {
     "name": "Dangal TV",
     "type": "Worldwide",  
