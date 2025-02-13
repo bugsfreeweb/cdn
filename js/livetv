@@ -6,6 +6,30 @@
     "img": "https://i.imgur.com/vOxpdGB.jpeg"
   },
   {
+    "name": "Travel XP GB",
+    "type": "Worldwide",
+    "url": "https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"
+  },
+  {
+    "name": "Aljazeera",
+    "type": "Worldwide",
+    "url": "https://live-hls-web-aje.getaj.net/AJE/01.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"
+  },
+  {
+    "name": "DW News",
+    "type": "Worldwide",
+    "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png"
+  },
+  {
+    "name": "RT News",
+    "type": "Worldwide",
+    "url": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png"
+  },
+  {
     "name": "JP News",
     "type": "Worldwide",
     "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
@@ -60,10 +84,16 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"
   },
   {
-    "name": "Bijoy Tv",
+    "name": "Boishakhi Tv",
     "type": "Bangla channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
-    "img": "https://i.imgur.com/6KYpCa0.jpeg"
+    "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"
+  },
+  {
+    "name": "Animal Planet",
+    "type": "Worldwide",
+    "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
   },
   {
     "name": "Colors Bangla",
@@ -125,6 +155,41 @@
     "type": "Bangla channel",
     "url": "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
-  }
-  
+  },
+  {
+    "name": "Nick Hindi",
+    "type": "Worldwide",
+    "url": "https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"
+  },
+  {
+    "name": "Pogo",
+    "type": "Worldwide",
+    "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"
+  },
+  {
+    "name": "Jungle Book",
+    "type": "Worldwide",
+    "url": "https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdYDuOawIs57oT6PcXREjNLnVUF58DK9qrsQ&s"
+  },
+  {
+    "name": "Action Hollywood Movies",
+    "type": "Worldwide",
+    "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"
+  },
+  {
+    "name": "9X Jalwa",
+    "type": "Worldwide",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
+    "img": "https://rawcomthubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"
+  },
+  {
+    "name": "Nexus TV HD",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"
+  }  
 ]
