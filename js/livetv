@@ -1,5 +1,59 @@
 [
   {
+    "name": "Harmonic",
+    "type": "Canal Aberto",
+    "url": "https://cdn-vos-ppp-01.vos360.video/Content/HLS_HLSCLEAR/Live/channel(PPP-LL-2HLS)/index.m3u8",
+    "img": "https://i.imgur.com/3vM87Ga.jpeg"
+  },
+  {
+    "name": "Nimble Streamer",
+    "type": "Canal Aberto",
+    "url": "https://ll-hls.softvelum.com/sldp/bbloop/playlist.m3u8",
+    "img": "https://i.imgur.com/hPCNC3i.jpeg"
+  },
+  {
+    "name": "ABC 7 Los Angeles",
+    "type": "Canal Aberto",
+    "url": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
+    "img": "https://i.imgur.com/4989Qms.jpeg"
+  },
+  {
+    "name": "TV Camera",
+    "type": "Canal Aberto",
+    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "img": "https://i.imgur.com/6KYpCa0.jpeg"
+  },
+  {
+    "name": "Nickelodeon",
+    "type": "Canal Aberto",
+    "url": "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
+    "img": "https://i.imgur.com/vOxpdGB.jpeg"
+  },
+  {
+    "name": "JP News",
+    "type": "Canal Aberto",
+    "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
+    "img": "https://i.imgur.com/aqgaka0.jpeg"
+  },
+  {
+    "name": "Record News",
+    "type": "Canal Aberto",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
+    "img": "https://i.imgur.com/mRDSmce.jpeg"
+  },
+  {
+    "name": "BBC News",
+    "type": "Canal Aberto",
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "img": "https://i.imgur.com/E3yldTG.jpeg"
+  },
+  {
+    "name": "NBC 4 New York",
+    "type": "Canal Fechado",
+    "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/DWjUT2R.jpeg"
+  }
+{
     "name": "Mello TV",
     "type": "freeTv",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=47",
@@ -37,59 +91,5 @@
     "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
     "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png"
   },
-{
-    "name": "Harmonic",
-    "type": "Canal Aberto",
-    "url": "https://cdn-vos-ppp-01.vos360.video/Content/HLS_HLSCLEAR/Live/channel(PPP-LL-2HLS)/index.m3u8",
-    "img": "https://i.imgur.com/3vM87Ga.jpeg"
-  },
-  {
-    "name": "Nimble Streamer",
-    "type": "Canal Aberto",
-    "url": "https://ll-hls.softvelum.com/sldp/bbloop/playlist.m3u8",
-    "img": "https://i.imgur.com/hPCNC3i.jpeg"
-  },
-  {
-    "name": "ABC 7 Los Angeles",
-    "type": "Canal Aberto",
-    "url": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
-    "img": "https://i.imgur.com/4989Qms.jpeg"
-  },
-  {
-    "name": "TV Câmara",
-    "type": "Canal Aberto",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-    "img": "https://i.imgur.com/6KYpCa0.jpeg"
-  },
-  {
-    "name": "Nickelodeon",
-    "type": "Canal Aberto",
-    "url": "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
-    "img": "https://i.imgur.com/vOxpdGB.jpeg"
-  },
-  {
-    "name": "JP News",
-    "type": "Canal Aberto",
-    "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
-    "img": "https://i.imgur.com/aqgaka0.jpeg"
-  },
-  {
-    "name": "Record News",
-    "type": "Canal Aberto",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
-    "img": "https://i.imgur.com/mRDSmce.jpeg"
-  },
-  {
-    "name": "BBC News",
-    "type": "Canal Aberto",
-    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
-    "img": "https://i.imgur.com/E3yldTG.jpeg"
-  },
-  {
-    "name": "NBC 4 New York",
-    "type": "Canal Fechado",
-    "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/DWjUT2R.jpeg"
-  }
   
 ]
