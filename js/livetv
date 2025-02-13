@@ -1,62 +1,40 @@
 [
   {
-    "name": "Lufa Studios",
-    "type": "Canal Aberto",
-    "url": "https://hls.lufastudios.com/m3u8/test.m3u8",
-    "img": "https://i.imgur.com/SgpaST3.jpeg"
+    "name": "Mello TV",
+    "type": "BUGSFREE",    
+    "img": "https://www.workandjam.com/foto/s1159.jpg" tvg-logo-small="https://www.workandjam.com/foto/s1159.jpg",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=47"
   },
   {
-    "name": "Harmonic",
-    "type": "Canal Aberto",
-    "url": "https://cdn-vos-ppp-01.vos360.video/Content/HLS_HLSCLEAR/Live/channel(PPP-LL-2HLS)/index.m3u8",
-    "img": "https://i.imgur.com/3vM87Ga.jpeg"
+    "name": "FUNNY",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+    "url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8"
   },
-  {
-    "name": "Nimble Streamer",
-    "type": "Canal Aberto",
-    "url": "https://ll-hls.softvelum.com/sldp/bbloop/playlist.m3u8",
-    "img": "https://i.imgur.com/hPCNC3i.jpeg"
+{
+    "name": "DANGAL TV",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png",
+    "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8"
   },
-  {
-    "name": "ABC 7 Los Angeles",
-    "type": "Canal Aberto",
-    "url": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
-    "img": "https://i.imgur.com/4989Qms.jpeg"
+{
+    "name": "GLOBAL INDIA",
+    "type": "BUGSFREE",    
+    "img": "https://globalindiatv.in/wp-content/uploads/2021/05/logo.png",
+    "url": "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8"
   },
-  {
-    "name": "TV Câmara",
-    "type": "Canal Aberto",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-    "img": "https://i.imgur.com/6KYpCa0.jpeg"
+{
+    "name": "HAMDARD TV",
+    "type": "BUGSFREE",    
+    "img": "https://houseofkhalsa.com/cdn/shop/articles/khalsa-1699-hamdard-tv-915996.png",
+    "url": "https://tv.hamdardtv.com/hamdard/tracks-v1a1/mono.m3u8"
   },
-  {
-    "name": "Nickelodeon",
-    "type": "Canal Aberto",
-    "url": "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
-    "img": "https://i.imgur.com/vOxpdGB.jpeg"
+
+{
+    "name": "SHEEMAROO BOLLYWOOD",
+    "type": "BUGSFREE",    
+    "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png",
+    "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8"
   },
-  {
-    "name": "JP News",
-    "type": "Canal Aberto",
-    "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
-    "img": "https://i.imgur.com/aqgaka0.jpeg"
-  },
-  {
-    "name": "Record News",
-    "type": "Canal Aberto",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
-    "img": "https://i.imgur.com/mRDSmce.jpeg"
-  },
-  {
-    "name": "BBC News",
-    "type": "Canal Aberto",
-    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
-    "img": "https://i.imgur.com/E3yldTG.jpeg"
-  },
-  {
-    "name": "NBC 4 New York",
-    "type": "Canal Fechado",
-    "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/DWjUT2R.jpeg"
-  }
+  
 ]
