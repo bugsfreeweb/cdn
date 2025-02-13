@@ -11,5 +11,53 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
 	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
   },
+{
+    "name": "DANGAL TV",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png",
+	"url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+  },
+{
+    "name": "GLOBAL INDIA",
+    "type": "BUGSFREE",    
+    "img": "https://globalindiatv.in/wp-content/uploads/2021/05/logo.png",
+	"url": "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8",
+  },
+{
+    "name": "FUNNY",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+  },
+{
+    "name": "FUNNY",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+  },
+{
+    "name": "FUNNY",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+  },
+{
+    "name": "FUNNY",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+  },
+{
+    "name": "FUNNY",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+  },
+{
+    "name": "FUNNY",
+    "type": "BUGSFREE",    
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+  },
   
 ]
