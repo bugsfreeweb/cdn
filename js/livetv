@@ -1,69 +1,56 @@
 [
   {
     "name": "Nickelodeon",
-    "type": "Canal Aberto",
+    "type": "Worldwide",
     "url": "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
     "img": "https://i.imgur.com/vOxpdGB.jpeg"
   },
   {
     "name": "JP News",
-    "type": "Canal Aberto",
+    "type": "Worldwide",
     "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
     "img": "https://i.imgur.com/aqgaka0.jpeg"
   },
   {
     "name": "Record News",
-    "type": "Canal Aberto",
+    "type": "Worldwide",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
     "img": "https://i.imgur.com/mRDSmce.jpeg"
   },
   {
     "name": "BBC News",
-    "type": "Canal Aberto",
+    "type": "Worldwide",
     "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
     "img": "https://i.imgur.com/E3yldTG.jpeg"
   },
   {
     "name": "NBC 4 New York",
-    "type": "Canal Fechado",
+    "type": "Worldwide",
     "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/DWjUT2R.jpeg"
   }
 {
     "name": "Mello TV",
-    "type": "freeTv",
+    "type": "Worldwide",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=47",
     "img": "https://www.workandjam.com/foto/s1159.jpg" 
   },
   {
     "name": "Funny",
-    "type": "freeTv",
+   "type": "Worldwide",
     "url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png"
     
   },
 {
     "name": "Dangal TV",
-    "type": "freeTv",    
+    "type": "Worldwide",  
     "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png"
   },
 {
-    "name": "Global India",
-    "type": "freeTv",    
-    "url": "https://server.livelegitpro.in/globalindiatv/globalindiatv/video.m3u8",
-    "img": "https://globalindiatv.in/wp-content/uploads/2021/05/logo.png"
-  },
-{
-    "name": "Hamdard TV",
-    "type": "freeTv",    
-    "url": "https://tv.hamdardtv.com/hamdard/tracks-v1a1/mono.m3u8",
-    "img": "https://houseofkhalsa.com/cdn/shop/articles/khalsa-1699-hamdard-tv-915996.png"
-  },
-
-{
     "name": "Sheemaroo Bollywood",
-    "type": "freeTv",    
+    "type": "Worldwide",   
     "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
     "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png"
   },
