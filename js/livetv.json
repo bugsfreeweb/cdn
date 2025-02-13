@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Nickelodeon",
+    "type": "Worldwide",
+    "url": "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
+    "img": "https://i.imgur.com/vOxpdGB.jpeg"
+  },
+  {
+    "name": "JP News",
+    "type": "Worldwide",
+    "url": "https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8",
+    "img": "https://i.imgur.com/aqgaka0.jpeg"
+  },
+  {
+    "name": "Record News",
+    "type": "Worldwide",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116",
+    "img": "https://i.imgur.com/mRDSmce.jpeg"
+  },
+  {
+    "name": "BBC News",
+    "type": "Worldwide",
+    "url": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "img": "https://i.imgur.com/E3yldTG.jpeg"
+  },
+  {
+    "name": "NBC 4 New York",
+    "type": "Worldwide",
+    "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/DWjUT2R.jpeg"
+  }
+{
+    "name": "Mello TV",
+    "type": "Worldwide",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=47",
+    "img": "https://www.workandjam.com/foto/s1159.jpg" 
+  },
+  {
+    "name": "Funny",
+   "type": "Worldwide",
+    "url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png"
+    
+  },
+{
+    "name": "Dangal TV",
+    "type": "Worldwide",  
+    "url": "https://live-dangal.akamaized.net/liveabr/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/hi/5/5e/Dangaltv.png"
+  },
+{
+    "name": "Sheemaroo Bollywood",
+    "type": "Worldwide",   
+    "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
+    "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png"
+  },
+  {
+    "name": "ATN Bangla",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+  },
+  {
+    "name": "Deepto TV",
+    "type": "Bangla channel",
+    "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"
+  },
+  {
+    "name": "BanglaVision",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
+    "img": "https://i.imgur.com/6KYpCa0.jpeg"
+  },
+  {
+    "name": "Colors Bangla",
+    "type": "Bangla channel",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"
+  },
+  {
+    "name": "Peace Tv-EN",
+    "type": "Religion",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
+  },
+  {
+    "name": "Madani Tv",
+    "type": "Religion",
+    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+  }
+]
