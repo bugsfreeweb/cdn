@@ -62,17 +62,5 @@
     "type": "Bangla channel",
     "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"
-  },
-  {
-    "name": "Peace Tv-EN",
-    "type": "Religion",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
-  },
-  {
-    "name": "Madani Tv",
-    "type": "Religion",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
-    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
   },  
 ]
