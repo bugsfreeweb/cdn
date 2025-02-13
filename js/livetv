@@ -1,15 +1,16 @@
 [
   {
-    "name": "ANANDA TV",
+    "name": "Mello TV",
     "type": "BUGSFREE",    
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn2PbGFvZGUdHkx1bhbqgFApUkQnS3aBCJRw&s",
-	"url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI0OjU0IFBNJmhhc2hfdmFsdWU9TlByNklWS0RraCt4YlpVTy9oNWlvQT09JnZhbGlkbWludXRlcz00MAy9oNWlvQT09JnZhbGlkbWludXRlcz00MA==",
+    "img": "https://www.workandjam.com/foto/s1159.jpg" tvg-logo-small="https://www.workandjam.com/foto/s1159.jpg",
+	"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=47",
   },
   {
-    "name": "ASIAN TV",
+    "name": "FUNNY",
     "type": "BUGSFREE",    
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6ln4rwXBygeF9uP10EegsLUbJYCUwdRyVffG8JBKnyHrKbfk4NSL0QgGN&s=10",
-	"url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTQvMjAyNCAxOjI1OjUxIFBNJmhhc2hfdmFsdWU9TVVFa04yS3RRVFFlS21mRVZZOXEzUT09JnZhbGlkbWludXRlcz00MA==",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/AFHV_new_logo_%28main%29.png/220px-AFHV_new_logo_%28main%29.png",
+	"url": "https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+",
   },
   
 ]
