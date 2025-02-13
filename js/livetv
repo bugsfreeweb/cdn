@@ -1,29 +1,5 @@
 [
   {
-    "name": "Harmonic",
-    "type": "Canal Aberto",
-    "url": "https://cdn-vos-ppp-01.vos360.video/Content/HLS_HLSCLEAR/Live/channel(PPP-LL-2HLS)/index.m3u8",
-    "img": "https://i.imgur.com/3vM87Ga.jpeg"
-  },
-  {
-    "name": "Nimble Streamer",
-    "type": "Canal Aberto",
-    "url": "https://ll-hls.softvelum.com/sldp/bbloop/playlist.m3u8",
-    "img": "https://i.imgur.com/hPCNC3i.jpeg"
-  },
-  {
-    "name": "ABC 7 Los Angeles",
-    "type": "Canal Aberto",
-    "url": "https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8",
-    "img": "https://i.imgur.com/4989Qms.jpeg"
-  },
-  {
-    "name": "TV Camera",
-    "type": "Canal Aberto",
-    "url": "https://stream3.camara.gov.br/tv1/manifest.m3u8",
-    "img": "https://i.imgur.com/6KYpCa0.jpeg"
-  },
-  {
     "name": "Nickelodeon",
     "type": "Canal Aberto",
     "url": "https://fl1.moveonjoy.com/NICKELODEON/index.m3u8",
@@ -90,6 +66,90 @@
     "type": "freeTv",    
     "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
     "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png"
+  },
+  {
+    "name": "ATN Bangla",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+  },
+  {
+    "name": "Deepto TV",
+    "type": "Bangla channel",
+    "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"
+  },
+  {
+    "name": "BanglaVision",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8",
+    "img": "https://i.imgur.com/6KYpCa0.jpeg"
+  },
+  {
+    "name": "Tv name",
+    "type": "Tv Type",
+    "url": "Tv Url",
+    "img": "https://mayanplayer.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
+  },
+  {
+    "name": "Bijoy Tv",
+    "type": "Bangla channel",
+    "url": "",
+    "img": ""
   },
   
 ]
