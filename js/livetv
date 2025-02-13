@@ -29,12 +29,7 @@
     "url": "https://nbcu-nbcnewyorknews-firetv.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/DWjUT2R.jpeg"
   }
-{
-    "name": "Mello TV",
-    "type": "Worldwide",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=47",
-    "img": "https://www.workandjam.com/foto/s1159.jpg" 
-  },
+
   {
     "name": "Funny",
    "type": "Worldwide",
