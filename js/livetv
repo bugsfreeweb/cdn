@@ -188,13 +188,13 @@
   },
   {
     "name": "Mbc Drama",
-    "type": "Arabic",
+    "type": "Worldwide Arabic",
     "url": "https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8",
     "img": "https://www.pngkey.com/png/full/93-930612_mbc-drama-mbc-drama.png"
   },
 {
     "name": "Rotana Cinema KSA",
-    "type": "Arabic",
+    "type": "Worldwide Arabic",
     "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png"
   }
