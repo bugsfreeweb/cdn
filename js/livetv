@@ -18,6 +18,12 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"
   },
   {
+    "name": "News Asia HD",
+    "type": "Worldwide",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "img": "https://pictr.com/images/2023/04/18/Enl0AP.png"
+  },
+  {
     "name": "DW News",
     "type": "Worldwide",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
