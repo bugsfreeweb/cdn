@@ -18,6 +18,72 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"
   },
   {
+    "name": "India Today HD",
+    "type": "Worldwide",
+    "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
+    "img": "https://i.imgur.com/koFYddE.png"
+  },
+  {
+    "name": "Press TV",
+    "type": "Worldwide",
+    "url": "https://live.presstv.ir/hls/presstv.m3u8",
+    "img": "https://iili.io/Jhkscnj.png"
+  },
+  {
+    "name": "Astro Awani HD",
+    "type": "Worldwide",
+    "url": "https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/index.m3u8",
+    "img": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png"
+  },
+  {
+    "name": "WION TV",
+    "type": "Worldwide",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://iili.io/JhksEFV.png"
+  },
+  {
+    "name": "News Asia HD",
+    "type": "Worldwide",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "img": "https://pictr.com/images/2023/04/18/Enl0AP.png"
+  },
+  {
+    "name": "TRT World",
+    "type": "Worldwide",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "img": "https://iili.io/Jhks06Q.png"
+  },
+  {
+    "name": "CNBC Indonesia",
+    "type": "Worldwide",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png"
+  },
+  {
+    "name": "BeritaSatu HD",
+    "type": "Worldwide",
+    "url": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8",
+    "img": "https://iptv.urfan.web.id/logo/idtv.png"
+  },
+  {
+    "name": "Garuda TV",
+    "type": "Worldwide",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8",
+    "img": "https://iili.io/2GKJtYF.png"
+  },
+  {
+    "name": "Magna TV",
+    "type": "Worldwide",
+    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+    "img": "https://iili.io/JMp3eKg.png"
+  },
+  {
+    "name": "NHK World Japan",
+    "type": "Worldwide",
+    "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8",
+    "img": "https://iili.io/Jhks7wu.png"
+  },
+  {
     "name": "DW News",
     "type": "Worldwide",
     "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
@@ -65,11 +131,23 @@
     "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
     "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png"
   },
-  {
-    "name": "ATN Bangla",
+{
+    "name": "Star Jalsa HD",
     "type": "Bangla channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+    "url": "https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
+  },
+  {
+    "name": "Colors Bangla",
+    "type": "Bangla channel",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"
+  },
+  {
+    "name": "Enter 10 Bangla",
+    "type": "Bangla channel",
+    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
   },
   {
     "name": "Deepto TV",
@@ -77,6 +155,12 @@
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"
   },
+  {
+    "name": "ATN Bangla",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+  },  
   {
     "name": "BanglaVision",
     "type": "Bangla channel",
@@ -95,12 +179,7 @@
     "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
   },
-  {
-    "name": "Colors Bangla",
-    "type": "Bangla channel",
-    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"
-  },
+
   {
     "name": "Peace Tv-EN",
     "type": "Religion",
@@ -112,14 +191,7 @@
     "type": "Religion",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
-  },
-
-  {
-    "name": "Enter 10 Bangla",
-    "type": "Bangla channel",
-    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
-  },
+  },  
   {
     "name": "ABP Ananda",
     "type": "Bangla channel",
@@ -150,11 +222,29 @@
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"
   },
+{
+    "name": "Maasranga TV",
+    "type": "Bangla channel",
+    "url": "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/bn/5/59/%E0%A6%AE%E0%A6%BE%E0%A6%9B%E0%A6%B0%E0%A6%BE%E0%A6%99%E0%A6%BE_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"
+  },
+{
+    "name": "NTV",
+    "type": "Bangla channel",
+    "url": "https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png"
+  },
   {
     "name": "Discovery Hindi HD",
     "type": "Bangla channel",
     "url": "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
+  },
+  {
+    "name": "Cartoon Network",
+    "type": "Worldwide",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+    "img": "https://i.ibb.co.com/8B0Lpzd/1000021166.png"
   },
   {
     "name": "Nick Hindi",
@@ -178,19 +268,48 @@
     "name": "Action Hollywood Movies",
     "type": "Worldwide",
     "url": "https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg"
+    "img": "https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png"
   },
   {
     "name": "9X Jalwa",
     "type": "Worldwide",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
-    "img": "https://mir-s3-cdn-cf.behance.net/project_modules/disp/62535925938977.5634d18cf0f24.jpg"
+    "img": "https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=s900-c-k-c0x00ffffff-no-rj"
+  },
+{
+    "name": "Joo Music",
+    "type": "Worldwide",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "img": "https://www.dthsat.com/images/Joo-Music-Logo.png"
+  },
+{
+    "name": "Fashion TV",
+    "type": "Worldwide",
+    "url": "https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg"
+  },
+{
+    "name": "RedBull TV",
+    "type": "Worldwide",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "img": "https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png"
+  },
+{
+    "name": "Arirang Korea",
+    "type": "Worldwide",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8",
+    "img": "https://cdn.theorg.com/78660ec3-1157-4f38-9256-81a539d3d3ca_medium.jpg"
   },
   {
-    "name": "Nexus TV HD",
-    "type": "Bangla channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8",
-    "img": "https://mayanplayer.netlify.app/img/no-logo.png"
+    "name": "Mbc Drama",
+    "type": "Worldwide Arabic",
+    "url": "https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8",
+    "img": "https://www.pngkey.com/png/full/93-930612_mbc-drama-mbc-drama.png"
+  },
+{
+    "name": "Rotana Cinema KSA",
+    "type": "Worldwide Arabic",
+    "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png"
   }
-  
 ]
