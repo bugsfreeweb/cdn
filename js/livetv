@@ -187,15 +187,15 @@
     "img": "https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=s900-c-k-c0x00ffffff-no-rj"
   },
   {
-    "name": "Doctor Strange",
-    "type": "Hollywood Movies",
-    "url": "http://xtv.ooo:8080/movie/Jawad1994/03112371534/235836.mkv",
-    "img": "https://c4.wallpaperflare.com/wallpaper/660/612/942/doctor-strange-2016-marvel-movies-benedict-cumberbatch-poster-doctor-strange-wallpaper-wallpaper-preview.jpg"
+    "name": "Mbc Drama",
+    "type": "Arabic",
+    "url": "https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8",
+    "img": "https://www.pngkey.com/png/full/93-930612_mbc-drama-mbc-drama.png"
   },
 {
-    "name": "Dr Strange 2 Multiverse of Madness",
-    "type": "Hollywood Movies",
-    "url": "http://xtv.ooo:8080/movie/Jawad1994/03112371534/246150.mkv",
-    "img": "https://wallpapercave.com/wp/wp11031011.jpg"
+    "name": "Rotana Cinema KSA",
+    "type": "Arabic",
+    "url": "https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png"
   }
 ]
