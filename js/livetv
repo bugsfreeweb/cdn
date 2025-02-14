@@ -18,10 +18,22 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"
   },
   {
+    "name": "Astro Awani HD",
+    "type": "Worldwide",
+    "url": "https://github.com/bacyree/siaranMy/raw/refs/heads/main/channels/AstroAwani/index.m3u8",
+    "img": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png"
+  },
+  {
     "name": "News Asia HD",
     "type": "Worldwide",
     "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
     "img": "https://pictr.com/images/2023/04/18/Enl0AP.png"
+  },
+  {
+    "name": "CNBC Indonesia",
+    "type": "Worldwide",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png"
   },
   {
     "name": "DW News",
