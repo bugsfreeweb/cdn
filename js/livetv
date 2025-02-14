@@ -186,6 +186,24 @@
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8",
     "img": "https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=s900-c-k-c0x00ffffff-no-rj"
   },
+{
+    "name": "Joo Music",
+    "type": "Worldwide",
+    "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
+    "img": "https://www.dthsat.com/images/Joo-Music-Logo.png"
+  },
+{
+    "name": "Fashion TV",
+    "type": "Worldwide",
+    "url": "https://HaNoiIPTV.short.gy/HaNoiIPTV-Fashion_TV_HD",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg"
+  },
+{
+    "name": "RedBull TV",
+    "type": "Worldwide",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "img": "https://fixeramsterdam.com/wp-content/uploads/2022/09/red-bull-tv.jpg"
+  },
   {
     "name": "Mbc Drama",
     "type": "Worldwide Arabic",
