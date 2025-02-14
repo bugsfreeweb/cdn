@@ -131,6 +131,24 @@
     "url": "https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8",
     "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png"
   },
+{
+    "name": "Star Jalsa HD",
+    "type": "Bangla channel",
+    "url": "https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
+  },
+  {
+    "name": "Colors Bangla",
+    "type": "Bangla channel",
+    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"
+  },
+  {
+    "name": "Enter 10 Bangla",
+    "type": "Bangla channel",
+    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
+  },
   {
     "name": "Deepto TV",
     "type": "Bangla channel",
@@ -161,18 +179,7 @@
     "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
   },
-{
-    "name": "Star Jalsa HD",
-    "type": "Bangla channel",
-    "url": "https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png"
-  },
-  {
-    "name": "Colors Bangla",
-    "type": "Bangla channel",
-    "url": "https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"
-  },
+
   {
     "name": "Peace Tv-EN",
     "type": "Religion",
@@ -184,14 +191,7 @@
     "type": "Religion",
     "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
     "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
-  },
-
-  {
-    "name": "Enter 10 Bangla",
-    "type": "Bangla channel",
-    "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
-  },
+  },  
   {
     "name": "ABP Ananda",
     "type": "Bangla channel",
