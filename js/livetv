@@ -30,10 +30,40 @@
     "img": "https://pictr.com/images/2023/04/18/Enl0AP.png"
   },
   {
+    "name": "TRT World",
+    "type": "Worldwide",
+    "url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "img": "https://iili.io/Jhks06Q.png"
+  },
+  {
     "name": "CNBC Indonesia",
     "type": "Worldwide",
     "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png"
+  },
+  {
+    "name": "BeritaSatu HD",
+    "type": "Worldwide",
+    "url": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8",
+    "img": "https://iptv.urfan.web.id/logo/idtv.png"
+  },
+  {
+    "name": "Garuda TV",
+    "type": "Worldwide",
+    "url": "https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8",
+    "img": "https://iili.io/2GKJtYF.png"
+  },
+  {
+    "name": "Magna TV",
+    "type": "Worldwide",
+    "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+    "img": "https://iili.io/JMp3eKg.png"
+  },
+  {
+    "name": "NHK World Japan",
+    "type": "Worldwide",
+    "url": "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8",
+    "img": "https://iili.io/Jhks7wu.png"
   },
   {
     "name": "DW News",
