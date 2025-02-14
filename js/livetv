@@ -66,17 +66,17 @@
     "img": "https://i.ibb.co/7nT3j6X/20240816-213443.png"
   },
   {
-    "name": "ATN Bangla",
-    "type": "Bangla channel",
-    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
-  },
-  {
     "name": "Deepto TV",
     "type": "Bangla channel",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg"
   },
+  {
+    "name": "ATN Bangla",
+    "type": "Bangla channel",
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"
+  },  
   {
     "name": "BanglaVision",
     "type": "Bangla channel",
@@ -94,6 +94,12 @@
     "type": "Worldwide",
     "url": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"
+  },
+{
+    "name": "Star Jalsa HD",
+    "type": "Bangla channel",
+    "url": "https://cdn.hoichoi24.com/INBD-STAR-JALSHA-hoichoi24.com/index.m3u8",
+    "img": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest/scale-to-width-down/200?cb=20210423101024"
   },
   {
     "name": "Colors Bangla",
@@ -150,11 +156,29 @@
     "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"
   },
+{
+    "name": "Maasranga TV",
+    "type": "Bangla channel",
+    "url": "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8",
+    "img": "https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/ed/Massranga_logo_without_word_television.png/revision/latest/scale-to-width-down/340?cb=20230512073848"
+  },
+{
+    "name": "NTV",
+    "type": "Bangla channel",
+    "url": "https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png"
+  },
   {
     "name": "Discovery Hindi HD",
     "type": "Bangla channel",
     "url": "https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"
+  },
+  {
+    "name": "Cartoon Network",
+    "type": "Worldwide",
+    "url": "https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8",
+    "img": "https://i.ibb.co.com/8B0Lpzd/1000021166.png"
   },
   {
     "name": "Nick Hindi",
@@ -203,6 +227,12 @@
     "type": "Worldwide",
     "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
     "img": "https://cdn.freebiesupply.com/logos/large/2x/red-bull-tv-logo-png-transparent.png"
+  },
+{
+    "name": "Arirang Korea",
+    "type": "Worldwide",
+    "url": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8",
+    "img": "https://cdn.theorg.com/78660ec3-1157-4f38-9256-81a539d3d3ca_medium.jpg"
   },
   {
     "name": "Mbc Drama",
