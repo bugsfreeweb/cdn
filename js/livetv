@@ -18,10 +18,28 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"
   },
   {
+    "name": "ZEE News",
+    "type": "Worldwide",
+    "url": "https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Zee_news.svg/512px-Zee_news.svg.png?20220511201645"
+  },
+  {
     "name": "India Today HD",
     "type": "Worldwide",
     "url": "https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8",
     "img": "https://i.imgur.com/koFYddE.png"
+  },
+  {
+    "name": "Aajtak",
+    "type": "Worldwide",
+    "url": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png"
+  },
+  {
+    "name": "NewsX Live",
+    "type": "Worldwide",
+    "url": "https://indianews.ottlive.co.in/newsx/newsx/index.fmp4.m3u8",
+    "img": "https://cdn6.aptoide.com/imgs/0/4/d/04d64c80fa7a81c28eeee2d720b6ea27_icon.png"
   },
   {
     "name": "Press TV",
