@@ -6,6 +6,12 @@
     "img": "https://i.imgur.com/vOxpdGB.jpeg"
   },
   {
+    "name": "Sony MAX HD",
+    "type": "Worldwide",
+    "url": "https://allinonereborn.com/test.m3u8?id=147&name=SONY%20MAX%20UK",
+    "img": "https://medianet.mv/media/channel/162x0-icon.png"
+  },
+  {
     "name": "Sony TV HD",
     "type": "Worldwide",
     "url": "https://allinonereborn.com/test.m3u8?id=113&name=SONY%20TV%20UK",
