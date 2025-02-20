@@ -8,19 +8,19 @@
   {
     "name": "Sony MAX HD",
     "type": "Worldwide",
-    "url": "https://allinonereborn.com/test.m3u8?id=147",
+    "url": "https://github.com/bugsfreeweb/Remember/raw/refs/heads/main/liveall/sonymaxhd.m3u8",
     "img": "https://medianet.mv/media/channel/162x0-icon.png"
   },
   {
     "name": "Sony TV HD",
     "type": "Worldwide",
-    "url": "https://allinonereborn.com/test.m3u8?id=113",
+    "url": "https://github.com/bugsfreeweb/Remember/raw/refs/heads/main/liveall/sonytvuk.m3u8",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlYxkSGO4y13pSaNBM2xyTSK4S1FAkX8N6dQ&s"
   },
   {
     "name": "Sony SAB UK",
     "type": "Worldwide",
-    "url": "https://allinonereborn.com/test.m3u8?id=25084",
+    "url": "https://github.com/bugsfreeweb/Remember/raw/refs/heads/main/liveall/sonysabhd.m3u8",
     "img": "https://1000logos.net/wp-content/uploads/2023/01/Sony-SAB-logo.png"
   },
   {
