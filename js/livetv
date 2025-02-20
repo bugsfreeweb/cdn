@@ -12,6 +12,12 @@
     "img": "https://medianet.mv/media/channel/162x0-icon.png"
   },
   {
+    "name": "Sony Movies",
+    "type": "Worldwide",
+    "url": "https://github.com/bugsfreeweb/Remember/raw/refs/heads/main/liveall/sonymovies.m3u8",
+    "img": "https://i.ytimg.com/vi/KsQxQv-KaPA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAz_W1GcGyOzoMmozw99kXSp1sEOQ"
+  },
+  {
     "name": "Sony TV HD",
     "type": "Worldwide",
     "url": "https://github.com/bugsfreeweb/Remember/raw/refs/heads/main/liveall/sonytvuk.m3u8",
