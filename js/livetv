@@ -6,6 +6,12 @@
     "img": "https://i.imgur.com/vOxpdGB.jpeg"
   },
   {
+    "name": "Sony TV HD",
+    "type": "Worldwide",
+    "url": "https://allinonereborn.com/spicetv-web/player.html?url=https%3A%2F%2Fallinonereborn.com%2Ftest.m3u8%3Fid%3D113&name=SONY%20TV%20UK",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlYxkSGO4y13pSaNBM2xyTSK4S1FAkX8N6dQ&s"
+  },
+  {
     "name": "Travel XP GB",
     "type": "Worldwide",
     "url": "https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8",
