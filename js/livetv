@@ -6,6 +6,18 @@
     "img": "https://i.imgur.com/vOxpdGB.jpeg"
   },
   {
+    "name": "MOVIES ACTION",
+    "type": "Worldwide",
+    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+    "img": "https://neeplay.me/wp-content/uploads/2024/07/moviesaction-185x278.webp"
+  },
+  {
+    "name": "MIX HOLLYWOOD",
+    "type": "Worldwide",
+    "url": "https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8",
+    "img": "https://b1391485.smushcdn.com/1391485/wp-content/uploads/2019/08/66061051_2762347270460546_1802097122678407168_n.jpg?lossy=2&strip=1&webp=1"
+  },
+  {
     "name": "Song TV HD",
     "type": "Worldwide",
     "url": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
