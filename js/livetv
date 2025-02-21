@@ -6,6 +6,12 @@
     "img": "https://i.imgur.com/vOxpdGB.jpeg"
   },
   {
+    "name": "Song TV HD",
+    "type": "Worldwide",
+    "url": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
+    "img": "https://images.iptv.rt.ru/images/ch4dkvbmhk079s3jprdg.png"
+  },
+  {
     "name": "Sony MAX HD",
     "type": "Worldwide",
     "url": "https://github.com/bugsfreeweb/Remember/raw/refs/heads/main/liveall/sonymaxhd.m3u8",
