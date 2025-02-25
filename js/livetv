@@ -210,6 +210,24 @@
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
   },
   {
+    "name": "MY TV",
+    "type": "Bangla channel",
+    "url": "https://mytvbangla.com/0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"
+  },
+  {
+    "name": "Maasranga TV",
+    "type": "Bangla channel",
+    "url": "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8",
+    "img": "https://i.ibb.co/nQLFk5P/images-11.jpg"
+  },
+  {
+    "name": "Channel 24",
+    "type": "Bangla channel",
+    "url": "https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8",
+    "img": "https://i.ibb.co/vdKhyBM/images-25.jpg"
+  },
+  {
     "name": "Deepto TV",
     "type": "Bangla channel",
     "url": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8",
