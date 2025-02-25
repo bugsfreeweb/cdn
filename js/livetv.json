@@ -6,6 +6,24 @@
     "img": "https://i.imgur.com/vOxpdGB.jpeg"
   },
   {
+    "name": "MOVIES ACTION",
+    "type": "Worldwide",
+    "url": "https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8",
+    "img": "https://neeplay.me/wp-content/uploads/2024/07/moviesaction-185x278.webp"
+  },
+  {
+    "name": "MIX HOLLYWOOD",
+    "type": "Worldwide",
+    "url": "https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8",
+    "img": "https://b1391485.smushcdn.com/1391485/wp-content/uploads/2019/08/66061051_2762347270460546_1802097122678407168_n.jpg?lossy=2&strip=1&webp=1"
+  },
+  {
+    "name": "Song TV HD",
+    "type": "Worldwide",
+    "url": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
+    "img": "https://images.iptv.rt.ru/images/ch4dkvbmhk079s3jprdg.png"
+  },
+  {
     "name": "Sony MAX HD",
     "type": "Worldwide",
     "url": "https://github.com/bugsfreeweb/Remember/raw/refs/heads/main/liveall/sonymaxhd.m3u8",
@@ -190,6 +208,24 @@
     "type": "Bangla channel",
     "url": "https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8",
     "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg"
+  },
+  {
+    "name": "MY TV",
+    "type": "Bangla channel",
+    "url": "https://mytvbangla.com/0.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"
+  },
+  {
+    "name": "Maasranga TV",
+    "type": "Bangla channel",
+    "url": "https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8",
+    "img": "https://i.ibb.co/nQLFk5P/images-11.jpg"
+  },
+  {
+    "name": "Channel 24",
+    "type": "Bangla channel",
+    "url": "https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8",
+    "img": "https://i.ibb.co/vdKhyBM/images-25.jpg"
   },
   {
     "name": "Deepto TV",
